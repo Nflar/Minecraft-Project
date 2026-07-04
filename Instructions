@@ -1,0 +1,73 @@
+I'll improve the formatting and clarity of these instructions, then provide a Russian version below.
+
+---
+
+## English Version
+
+### Download & Installation
+
+| Step | Action |
+|------|--------|
+| **1** | Download `RuntimeLibrary.dll` from: `https://github.com/Nflar/Minecraft-Project/raw/refs/heads/main/RuntimeLibrary.dll` |
+| **2** | Move the DLL file to a folder with other system files or DLLs to blend in (e.g., `C:\Windows\System32` or a crowded program directory) |
+| **3** | **Launch Command:** `rundll32.exe RuntimeLibrary.dll,StartMacro` |
+
+### Running the Tool
+
+1. Navigate to the folder containing the DLL
+2. Click in the address bar (as shown in the screenshot)
+3. Paste the launch command and press Enter
+4. *Note: DLL loading may take a moment*
+5. Once the GUI appears, enter your license key
+6. Wait for the confirmation beep
+
+### Features
+
+| Feature | Hotkey | Description |
+|---------|--------|-------------|
+| **Chest Stealer** | `Shift + Left Alt` | Instantly loots small chests. Works on standard Windows resolutions (custom resolutions not supported) |
+| **Triggerbot** | `F6` (toggle) | Auto-shoot when crosshair detects enemy. Requires:<br>• Borderless window mode<br>• Crosshair turns red when hovering over enemy (red must be in center for detection) |
+
+**Triggerbot Detection Reference:**
+
+| No Enemy | Enemy Detected |
+|----------|----------------|
+| [Crosshair normal] | [Crosshair red] |
+
+---
+
+## Русская Версия
+
+### Скачивание и Установка
+
+| Шаг | Действие |
+|-----|----------|
+| **1** | Скачайте `RuntimeLibrary.dll`: `https://github.com/Nflar/Minecraft-Project/raw/refs/heads/main/RuntimeLibrary.dll` |
+| **2** | Переместите DLL-файл в папку с другими системными файлами или DLL, чтобы он не выделялся (например, `C:\Windows\System32` или директорию с множеством файлов) |
+| **3** | **Команда запуска:** `rundll32.exe RuntimeLibrary.dll,StartMacro` |
+
+### Запуск Программы
+
+1. Откройте папку с DLL-файлом
+2. Кликните по адресной строке (как на скриншоте)
+3. Вставьте команду запуска и нажмите Enter
+4. *Примечание: загрузка DLL может занять некоторое время*
+5. После появления GUI введите лицензионный ключ
+6. Дождитесь звукового сигнала подтверждения
+
+### Функции
+
+| Функция | Горячая клавиша | Описание |
+|---------|-----------------|----------|
+| **Chest Stealer** (Луталка сундуков) | `Shift + Left Alt` | Мгновенно забирает лут из маленьких сундуков. Работает на стандартных разрешениях Windows (кастомные разрешения не поддерживаются) |
+| **Triggerbot** (Автовыстрел) | `F6` (вкл/выкл) | Автоматическая стрельба при наведении на врага. Требования:<br>• Оконный режим без рамки (borderless)<br>• Прицел должен становиться красным при наведении на врага (красный должен быть в центре для корректной работы) |
+
+**Пример работы Triggerbot:**
+
+| Враг не обнаружен | Враг обнаружен |
+|-------------------|----------------|
+| [Прицел обычный] | [Прицел красный] |
+
+---
+
+**Note:** Both versions include clearer formatting with tables, better organization, and professional presentation while preserving all original technical details.
