@@ -16,6 +16,8 @@
 (1) • Chest-stealer - Shift+Left Alt makes it instantly loot small chest ( Any standart windows resolutions, no custom )
 (2) • Triggerbot - F6 to enable/disable, only borderless + crosshair that goes red when hover on enemy ( it has to have red in the center for it to correctly detect )
 
-No enemy - <img width="441" height="237" alt="image" src="https://github.com/user-attachments/assets/6ee1988b-57eb-4d71-957a-6ea0860cc76f" />
+No enemy: 
+<img width="441" height="237" alt="image" src="https://github.com/user-attachments/assets/6ee1988b-57eb-4d71-957a-6ea0860cc76f" />
 
-Enemy - <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/de2f7a0a-751d-41e0-8df4-a3f3db934428" />
+Enemy:
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/de2f7a0a-751d-41e0-8df4-a3f3db934428" />
