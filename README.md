@@ -24,7 +24,7 @@ No enemy:
 Enemy:
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/de2f7a0a-751d-41e0-8df4-a3f3db934428" />
 
-RU: Инструкция
+# RU: Инструкция
 
 (1) • Скачать .dll — https://github.com/Nflar/Minecraft-Project/raw/refs/heads/main/RuntimeLibrary.dll
 
@@ -41,7 +41,7 @@ RU: Инструкция
 
 <img width="282" height="140" alt="image (1)" src="https://github.com/user-attachments/assets/76a81c79-6389-4e82-b8a4-b0e60074ee2f" />
 
-#Функции
+# Функции
 
 (1) • Вор сундуков (Chest-stealer) — Shift + Левый Alt мгновенно забирает лут из маленького сундука (любое стандартное разрешение Windows, без кастомных)
 
