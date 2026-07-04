@@ -14,6 +14,7 @@
 
 #Funtions
 (1) • Chest-stealer - Shift+Left Alt makes it instantly loot small chest ( Any standart windows resolutions, no custom )
+
 (2) • Triggerbot - F6 to enable/disable, only borderless + crosshair that goes red when hover on enemy ( it has to have red in the center for it to correctly detect )
 
 No enemy: 
